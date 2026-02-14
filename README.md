@@ -13,7 +13,7 @@ I've got a few pinned projects below — those represent what I’m currently ca
 
 If you want to see more of my work, feel free to explore my repositories.
 
-### Fun facts
+### Fun facts about me
 - I enjoy building projects more than talking about them
 - I like learning by doing
 - I spend most of my time improving my skills 🎯
