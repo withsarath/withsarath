@@ -6,7 +6,7 @@ I build things that interest me.
 
 If an idea pops into my head, chances are I’ll try to build it and ship it.
 
-My main tech stack is **JavaScript, React, Node.js, Express, MongoDB, Java, Spring Boot**.  
+My main tech stack is **JavaScript, React, Node.js, Express, MongoDB, Typescript**.  
 I enjoy working on full-stack web applications and learning backend architecture.
 
 I've got a few pinned projects below — those represent what I’m currently capable of.
