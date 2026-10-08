@@ -18,5 +18,4 @@ If you want to see more of my work, feel free to explore my repositories.
 - I like learning by doing 👨🏻‍💻
 - I spend most of my time improving my skills 🎯
 - I love to watch movies and animes 🍿
-- I love Cookies 🍪
 
